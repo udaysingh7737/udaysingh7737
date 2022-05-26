@@ -29,6 +29,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=udaysingh7737&icon=2&color=1)](https://visitcount.itsvg.in)
 
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=UdaySingh7737&label=Profile%20Views&pretty=false" />
+</a>
+
 <!---
 udaysingh7737/udaysingh7737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
